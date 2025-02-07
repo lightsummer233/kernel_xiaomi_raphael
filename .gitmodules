@@ -1,3 +1,4 @@
 [submodule "drivers/staging/kernelsu"]
 	path = drivers/staging/kernelsu
-	url = https://github.com/tiann/KernelSU.git
+	url = https://github.com/lightsummer233/KernelSU.git
+	branch = mksu
